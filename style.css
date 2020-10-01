@@ -1,1 +1,6 @@
 /* TODO: write your design in CSS */
+*{
+  margin:0;
+  padding:0;
+}
+/*Applies to entire page*/
